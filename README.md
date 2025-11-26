@@ -1,10 +1,21 @@
 # Stockly - Home Inventory Management
 
+<img width="1891" height="847" alt="image" src="https://github.com/user-attachments/assets/bbbd1955-6ef6-451d-8b32-218444e0e58e" />
+
+
+
+
 A modern SaaS application for tracking home inventory and managing grocery lists. Built with Next.js, TypeScript, Tailwind CSS, and PostgreSQL.
 
-## Features
+<img width="1886" height="845" alt="image" src="https://github.com/user-attachments/assets/fb17bf6c-2dfc-4237-a23c-3379808ee055" />
 
-- **Hierarchical Organization**: Locations → Categories → Items structure
+
+https://www.loom.com/share/dac2e2a9fcb84b2480bbaf47aac3003a
+
+## Features
+<img width="1890" height="897" alt="image" src="https://github.com/user-attachments/assets/be12317d-005a-45e7-8c21-ad95ab1f21f8" />
+
+- **Hierarchical Organization**: Locations → Categories → Items structure 
 - **Stock Monitoring**: Track quantities and get alerts for low stock items
 - **Shopping Lists**: Automatically generate shopping lists from items marked "To Buy"
 - **Modern UI**: Beautiful, responsive design with dark mode support
@@ -126,6 +137,8 @@ stockly/
 The application uses a hierarchical structure:
 
 - **Users**: Account holders (managed by Better Auth)
+- <img width="1851" height="832" alt="image" src="https://github.com/user-attachments/assets/b0074a92-96e0-4bc4-bc29-ad08b67ac07b" />
+
 - **Locations**: Storage locations (e.g., "Kitchen Fridge", "Garage Pantry")
 - **Categories**: Categories within locations (e.g., "Dairy", "Canned Goods")
 - **Items**: Individual items with:
